@@ -1,0 +1,4 @@
+# Ignore development-related files
+__pycache__
+*.pyc
+*.pyo
